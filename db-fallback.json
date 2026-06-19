@@ -1,0 +1,118 @@
+{
+  "matches": [
+    {
+      "id": "WC-2026-0001",
+      "homeTeam": "Saudi Arabia",
+      "awayTeam": "Uruguay",
+      "kickoffTime": "22:00 UTC",
+      "predictionDuration": "30m",
+      "winnerReward": "500 Coins",
+      "description": "Group Stage Match",
+      "status": "closed",
+      "winner": null,
+      "createdAt": "2026-06-16T06:41:26.863Z",
+      "expiresAt": "2026-06-16T07:11:26.863Z",
+      "messageId": "mock_msg_001",
+      "channelId": "mock_chan_001"
+    },
+    {
+      "id": "WC-2026-0002",
+      "homeTeam": "Portugal",
+      "awayTeam": "Argentina",
+      "kickoffTime": "22:00 UTC",
+      "predictionDuration": "30m",
+      "winnerReward": "500 Coins",
+      "description": "HA",
+      "status": "resolved",
+      "winner": "home",
+      "expiresAt": "2026-06-18T16:16:01.306Z",
+      "messageId": "1517193682028199986",
+      "channelId": "1494978568759808131",
+      "createdAt": "2026-06-18T15:46:01.971Z"
+    },
+    {
+      "id": "WC-2026-0003",
+      "homeTeam": "Portugal",
+      "awayTeam": "Argentina",
+      "kickoffTime": "22:00 UTC",
+      "predictionDuration": "30m",
+      "winnerReward": "500 Coins",
+      "description": "HA",
+      "status": "closed",
+      "winner": null,
+      "expiresAt": "2026-06-18T17:23:01.936Z",
+      "messageId": "1517210545302798468",
+      "channelId": "1358036663405641909",
+      "createdAt": "2026-06-18T16:53:02.499Z"
+    },
+    {
+      "id": "WC-2026-0004",
+      "homeTeam": "Portugal",
+      "awayTeam": "Argentina",
+      "kickoffTime": "22:00 UTC",
+      "predictionDuration": "30m",
+      "winnerReward": "500 Coins",
+      "description": "HA",
+      "status": "resolved",
+      "winner": "home",
+      "expiresAt": "2026-06-18T17:24:38.269Z",
+      "messageId": "1517210949398823062",
+      "channelId": "1345717061808295958",
+      "createdAt": "2026-06-18T16:54:38.846Z"
+    }
+  ],
+  "predictions": [
+    {
+      "id": "PRED-WC-2026-0002-1051466423161077832",
+      "matchId": "WC-2026-0002",
+      "userId": "1051466423161077832",
+      "username": "am_wrenn",
+      "selection": "home",
+      "timestamp": "2026-06-18T15:46:42.679Z"
+    },
+    {
+      "id": "PRED-WC-2026-0003-1051466423161077832",
+      "matchId": "WC-2026-0003",
+      "userId": "1051466423161077832",
+      "username": "am_wrenn",
+      "selection": "away",
+      "timestamp": "2026-06-18T16:53:34.094Z"
+    },
+    {
+      "id": "PRED-WC-2026-0004-1385142450242322577",
+      "matchId": "WC-2026-0004",
+      "userId": "1385142450242322577",
+      "username": "zenu_ls",
+      "selection": "home",
+      "timestamp": "2026-06-18T16:55:17.564Z"
+    },
+    {
+      "id": "PRED-WC-2026-0004-1051466423161077832",
+      "matchId": "WC-2026-0004",
+      "userId": "1051466423161077832",
+      "username": "am_wrenn",
+      "selection": "away",
+      "timestamp": "2026-06-18T16:55:24.775Z"
+    }
+  ],
+  "users": [
+    {
+      "userId": "1051466423161077832",
+      "username": "am_wrenn",
+      "coins": 500,
+      "xp": 110,
+      "tournamentPoints": 3,
+      "wins": 1,
+      "losses": 1
+    },
+    {
+      "userId": "1385142450242322577",
+      "username": "zenu_ls",
+      "coins": 500,
+      "xp": 100,
+      "tournamentPoints": 3,
+      "wins": 1,
+      "losses": 0
+    }
+  ]
+}

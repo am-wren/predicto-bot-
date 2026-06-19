@@ -1,0 +1,6 @@
+{
+  "name": "World Cup Predictor Bot",
+  "description": "A premium Discord bot for World Cup match predictions, featuring interactive embeds, buttons, economy system, and live leaderboards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
